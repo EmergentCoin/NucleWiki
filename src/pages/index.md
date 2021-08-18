@@ -4,7 +4,7 @@ title: Nucle Wallet
 
 # Nucle
 
-Nucle wallet is the first SPV wallet for [Chia blockchain](https://chia.net). Your first gateway to the Chia DeFi world.   
+Nucle wallet is the first SPV wallet for [Chia blockchain](https://chia.net). Your first step to the Chia DeFi world! 
 
 ## Frequently Asked Questions  
 
@@ -32,11 +32,12 @@ You are free to use Nucle just like the Chia full node wallet without paying ext
 ### Why does not my wallet balance automatically update?
 There are technical difficulties that we have to compromised at this time.
 
+### Where is my wallet history?
+We are currently using [Chia Explorer](https://chiaexplorer.com) to inspect on-chian transactions. Due to some technical difficulties, we are unable to gather all the history of your wallet at this time. By compromising with the best and compact user experiences, Nucle will only aware of transactions history when you start using it today. 
+
 ### What is Tails?
-Tails is an experimental non-transferable token that serves solely for explore [Chialisp](https://chialisp.com). Visit **here** for the latest information.
+Tails is an experimental non-transferable token that serves solely for explore the powerful of [Chialisp](https://chialisp.com). Visit **here** for the latest information.
 
 <!-- ### Where is the open source repository?
 
-### How do I sync with my Chia native wallet
-
-### Where is my wallet history? -->
+### How do I sync with my Chia native wallet -->
